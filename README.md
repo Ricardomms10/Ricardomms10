@@ -1,4 +1,4 @@
-![Header](./github/workflows/github-header-image (1).png) 
+![Header](.github/workflows/github-header-image (1).png) 
 # 💫 Sobre mim:
 Olá Rede! 🌍<br> <br>Sou o Ricardo, natural de São Paulo e atualmente residindo em Praia Grande, SP. <br>Estou focado em me tornar um desenvolvedor Full Stack e construir uma carreira <br>na área. Tenho experiência com tecnologias essenciais, como React, JavaScript, TypeScript e Material UI, entre outras. Acredito na aprendizagem contínua e estou sempre em busca de novos desafios para expandir meu conhecimento em desenvolvimento web. Estou aberto a oportunidades emocionantes que me<br> permitam aplicar minhas habilidades e crescer profissionalmente.
 
