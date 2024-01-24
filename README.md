@@ -9,9 +9,11 @@ Atualmente em Desenvolvimento
 Atualmente, estou focado no aprendizado e desenvolvimento em React Native, uma tecnologia que estou explorando para expandir ainda mais minha habilidade como desenvolvedor.
 
 Habilidades Extras
+
 Além das minhas habilidades técnicas, possuo experiência em design gráfico, especialmente utilizando o Photoshop. Destaco minha habilidade em criar flyers, com ênfase em design relacionado à Space X. Além disso, estou dedicando tempo ao estudo do Power BI para aprimorar minha compreensão de análise de dados e visualizações interativas. Tenho também experiência sólida no pacote Office, complementando minhas habilidades técnicas com eficácia na produção de documentos e planilhas.
 
 Contato
+
 Estou sempre aberto a colaborações, oportunidades de aprendizado e projetos emocionantes. Se você estiver interessado em entrar em contato ou discutir possíveis colaborações, fique à vontade para me chamar. Vamos construir algo incrível juntos!
 
 
