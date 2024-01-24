@@ -1,7 +1,18 @@
 ![Header](https://github.com/Ricardomms10/Ricardomms10/blob/main/.github/workflows/github-header-image%20(1).png) 
 
 # 💫 Sobre mim:
-Olá Rede! 🌍<br> <br>Sou o Ricardo, natural de São Paulo e atualmente residindo em Praia Grande, SP. <br>Estou focado em me tornar um desenvolvedor Full Stack e construir uma carreira <br>na área. Tenho experiência com tecnologias essenciais, como React, JavaScript, TypeScript e React Native, entre outras. Acredito na aprendizagem contínua e estou sempre em busca de novos desafios para expandir meu conhecimento em desenvolvimento web. Estou aberto a oportunidades emocionantes que me<br> permitam aplicar minhas habilidades e crescer profissionalmente.
+Olá! Eu sou o Ricardo, natural de São Paulo e atualmente moro em Praia Grande, SP. Estou dedicado a me tornar um desenvolvedor Full Stack e construir uma carreira sólida nessa área emocionante. Possuo experiência com tecnologias essenciais, tais como React, JavaScript, TypeScript e React Native, além de outras.
+
+Acredito fortemente na aprendizagem contínua e estou sempre em busca de novos desafios para expandir meu conhecimento em desenvolvimento web. Estou aberto a oportunidades empolgantes que me permitirão aplicar minhas habilidades e crescer profissionalmente.
+
+Atualmente em Desenvolvimento
+Atualmente, estou focado no aprendizado e desenvolvimento em React Native, uma tecnologia que estou explorando para expandir ainda mais minha habilidade como desenvolvedor.
+
+Habilidades Extras
+Além das minhas habilidades técnicas, possuo experiência em design gráfico, especialmente utilizando o Photoshop. Destaco minha habilidade em criar flyers, com ênfase em design relacionado à Space X. Além disso, estou dedicando tempo ao estudo do Power BI para aprimorar minha compreensão de análise de dados e visualizações interativas. Tenho também experiência sólida no pacote Office, complementando minhas habilidades técnicas com eficácia na produção de documentos e planilhas.
+
+Contato
+Estou sempre aberto a colaborações, oportunidades de aprendizado e projetos emocionantes. Se você estiver interessado em entrar em contato ou discutir possíveis colaborações, fique à vontade para me chamar. Vamos construir algo incrível juntos!
 
 
 ## 🌐 Redes:
