@@ -5,10 +5,9 @@ Olá! Eu sou o Ricardo, natural de São Paulo e atualmente moro em Praia Grande,
 
 Acredito fortemente na aprendizagem contínua e estou sempre em busca de novos desafios para expandir meu conhecimento em desenvolvimento web. Estou aberto a oportunidades empolgantes que me permitirão aplicar minhas habilidades e crescer profissionalmente.
 Atualmente em Desenvolvimento
-Atualmente, estou focado no aprendizado e desenvolvimento em React Native, uma tecnologia que estou explorando para expandir ainda mais minha habilidade como desenvolvedor.
+, estou focado no aprendizado e desenvolvimento em React Native, uma tecnologia que estou explorando para expandir ainda mais minha habilidade como desenvolvedor.
 
 Habilidades Extras:
-
 Além das minhas habilidades técnicas, possuo experiência em design gráfico, especialmente utilizando o Photoshop. Destaco minha habilidade em criar flyers, com ênfase em design relacionado à Space X. Além disso, estou dedicando tempo ao estudo do Power BI para aprimorar minha compreensão de análise de dados e visualizações interativas. Tenho também experiência sólida no pacote Office, complementando minhas habilidades técnicas com eficácia na produção de documentos e planilhas.
 
 
