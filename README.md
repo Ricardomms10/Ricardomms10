@@ -1,14 +1,11 @@
 ![Header](https://github.com/Ricardomms10/Ricardomms10/blob/main/.github/workflows/github-header-image%20(1).png) 
 
 # 💫 Sobre mim:
-Olá! Eu sou o Ricardo, natural de São Paulo e atualmente moro em Praia Grande, SP. Estou dedicado a me tornar um desenvolvedor Full Stack e construir uma carreira sólida nessa área emocionante. Possuo experiência com tecnologias essenciais, tais como React, JavaScript, TypeScript e React Native, além de outras.
+Olá! Eu sou o Ricardo. Embora tenha uma base sólida como desenvolvedor Full Stack com experiência em tecnologias como React, JavaScript, TypeScript e React Native, meu foco atual está em segurança da informação e cibersegurança.
 
-Acredito fortemente na aprendizagem contínua e estou sempre em busca de novos desafios para expandir meu conhecimento em desenvolvimento web. Estou aberto a oportunidades empolgantes que me permitirão aplicar minhas habilidades e crescer profissionalmente.
-Atualmente em Desenvolvimento
-, estou focado no aprendizado e desenvolvimento em React Native, uma tecnologia que estou explorando para expandir ainda mais minha habilidade como desenvolvedor.
+Acredito fortemente na importância de criar aplicações seguras desde o desenvolvimento, e estou explorando como aplicar meus conhecimentos de desenvolvimento web para proteger sistemas e dados. Além disso, tenho dedicado meu tempo a expandir meus conhecimentos em cibersegurança, com o objetivo de me tornar um profissional versátil e preparado para enfrentar desafios de segurança digital.
 
-Habilidades Extras:
-Além das minhas habilidades técnicas, possuo experiência em design gráfico, especialmente utilizando o Photoshop. Destaco minha habilidade em criar flyers, com ênfase em design relacionado à Space X. Além disso, estou dedicando tempo ao estudo do Power BI para aprimorar minha compreensão de análise de dados e visualizações interativas. Tenho também experiência sólida no pacote Office, complementando minhas habilidades técnicas com eficácia na produção de documentos e planilhas.
+Estou aberto a oportunidades que me permitam aplicar minhas habilidades técnicas e continuar a crescer no campo da segurança da informação.
 
 
 ## 🌐 Redes:
