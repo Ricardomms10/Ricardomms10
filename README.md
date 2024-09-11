@@ -1,4 +1,4 @@
-![Header](https://github.com/Ricardomms10/Ricardomms10/blob/main/.github/workflows/github-header-image%20(1).png) 
+
 
 # 💫 Sobre mim:
 Olá! Eu sou o Ricardo. Embora tenha uma base sólida como desenvolvedor Full Stack com experiência em tecnologias como React, JavaScript, TypeScript e React Native, meu foco atual está em segurança da informação e cibersegurança.
