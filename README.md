@@ -1,7 +1,5 @@
-
-
-# 💫 Olá,
-Olá! Eu sou o Ricardo. Embora tenha uma base sólida como desenvolvedor Full Stack com experiência em tecnologias como React, JavaScript, TypeScript e React Native, meu foco atual está em segurança da informação e cibersegurança.
+# 💫 Olá, Malta aqui!
+Eu sou o Ricardo. Embora tenha uma base sólida como desenvolvedor Full Stack com experiência em tecnologias como React, JavaScript, TypeScript e React Native, meu foco atual está em segurança da informação e cibersegurança.
 
 Acredito fortemente na importância de criar aplicações seguras desde o desenvolvimento, e estou explorando como aplicar meus conhecimentos de desenvolvimento web para proteger sistemas e dados. Além disso, tenho dedicado meu tempo a expandir meus conhecimentos em cibersegurança, com o objetivo de me tornar um profissional versátil e preparado para enfrentar desafios de segurança digital.
 
