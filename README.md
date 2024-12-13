@@ -1,9 +1,9 @@
 # 💫 Olá, Malta aqui!
-Eu sou o Ricardo. Embora tenha uma base sólida como desenvolvedor Full Stack com experiência em tecnologias como React, JavaScript, TypeScript e React Native, meu foco atual está em segurança da informação e cibersegurança.
+Eu sou o Ricardo, um Web Desenvolvedor com foco no Front-End, utilizando tecnologias como React, JavaScript, TypeScript e React Native.
 
-Acredito fortemente na importância de criar aplicações seguras desde o desenvolvimento, e estou explorando como aplicar meus conhecimentos de desenvolvimento web para proteger sistemas e dados. Além disso, tenho dedicado meu tempo a expandir meus conhecimentos em cibersegurança, com o objetivo de me tornar um profissional versátil e preparado para enfrentar desafios de segurança digital.
+Sou apaixonado por criar interfaces modernas, funcionais e acessíveis, sempre com atenção aos detalhes e à experiência do usuário. Acredito na importância de escrever um código limpo e eficiente, que ofereça desempenho e facilite a manutenção e escalabilidade dos projetos.
 
-Estou aberto a oportunidades que me permitam aplicar minhas habilidades técnicas e continuar a crescer no campo da segurança da informação.
+Estou em constante evolução, aprendendo novas tecnologias e práticas para entregar soluções inovadoras e de alta qualidade. Estou aberto a oportunidades que me permitam aplicar e expandir minhas habilidades no desenvolvimento web, contribuindo para projetos impactantes.
 
 
 ## 🌐 Redes:
