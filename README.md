@@ -1,4 +1,7 @@
-# 💫 Olá, Malta aqui!
+# 💫 Ricardo Malta
+
+**`Desenvolvedor Web & Analista de Dados`**
+
 Eu sou o Ricardo, um Web Desenvolvedor com foco no Front-End, utilizando tecnologias como React, JavaScript, TypeScript e React Native.
 
 Sou apaixonado por criar interfaces modernas, funcionais e acessíveis, sempre com atenção aos detalhes e à experiência do usuário. Acredito na importância de escrever um código limpo e eficiente, que ofereça desempenho e facilite a manutenção e escalabilidade dos projetos.
