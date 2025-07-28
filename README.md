@@ -2,12 +2,9 @@
 
 **`Desenvolvedor Web & Analista de Dados`**
 
-Eu sou o Ricardo, um Web Desenvolvedor com foco no Front-End, utilizando tecnologias como React, JavaScript, TypeScript e React Native.
+Atuo como desenvolvedor web e estou aprofundando meus estudos em dados para complementar minha carreira. Acredito que unir desenvolvimento e análise de informações é essencial para criar soluções inovadoras, escaláveis e orientadas a resultados.
 
-Sou apaixonado por criar interfaces modernas, funcionais e acessíveis, sempre com atenção aos detalhes e à experiência do usuário. Acredito na importância de escrever um código limpo e eficiente, que ofereça desempenho e facilite a manutenção e escalabilidade dos projetos.
-
-Estou em constante evolução, aprendendo novas tecnologias e práticas para entregar soluções inovadoras e de alta qualidade. Estou aberto a oportunidades que me permitam aplicar e expandir minhas habilidades no desenvolvimento web, contribuindo para projetos impactantes.
-
+Meu objetivo é evoluir continuamente, aplicando conhecimento técnico para otimizar processos e apoiar decisões estratégicas por meio da tecnologia.
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-malta/) 
