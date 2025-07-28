@@ -43,7 +43,7 @@ Meu objetivo é evoluir continuamente, aplicando conhecimento técnico para otim
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ricardomms10&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ricardomms10&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardomms10&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardomms10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ricardomms10&limit=5&theme=monokai&combine_all_yearly_contributions=true)
