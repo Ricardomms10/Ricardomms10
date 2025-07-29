@@ -46,8 +46,10 @@ Meu objetivo é evoluir continuamente, aplicando conhecimento técnico para otim
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardomms10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Ricardomms10&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Ricardomms10&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
