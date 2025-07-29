@@ -39,17 +39,15 @@ Meu objetivo é evoluir continuamente, aplicando conhecimento técnico para otim
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ricardomms10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ricardomms10&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardomms10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ricardomms10&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Ricardomms10&icon=1&color=6)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=Ricardomms10&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
