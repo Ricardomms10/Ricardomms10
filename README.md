@@ -1,6 +1,6 @@
 # 💫 Ricardo Malta
 
-**`Desenvolvedor Web & Analista de Dados`**
+**`Desenvolvedor Web `**
 
 Atuo como desenvolvedor web e estou aprofundando meus estudos em dados para complementar minha carreira. Acredito que unir desenvolvimento e análise de informações é essencial para criar soluções inovadoras, escaláveis e orientadas a resultados.
 
