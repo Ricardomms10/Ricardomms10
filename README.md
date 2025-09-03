@@ -2,9 +2,13 @@
 
 **`Desenvolvedor Web `**
 
-Atuo como desenvolvedor web e estou aprofundando meus estudos em dados para complementar minha carreira. Acredito que unir desenvolvimento e análise de informações é essencial para criar soluções inovadoras, escaláveis e orientadas a resultados.
+Desenvolvedor Web Full Stack | Automação de Processos
 
-Meu objetivo é evoluir continuamente, aplicando conhecimento técnico para otimizar processos e apoiar decisões estratégicas por meio da tecnologia.
+Atuo na área de tecnologia com foco em desenvolvimento web, criando aplicações modernas que unem performance e boa experiência do usuário.
+
+Também desenvolvo automações que simplificam rotinas e otimizam processos, sempre buscando transformar desafios em soluções práticas e eficazes.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas (UNINOVE EAD) e sigo em constante evolução, aprimorando minhas habilidades para contribuir em projetos inovadores e de impacto.
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-malta/) 
