@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web `**
 
-Profissional da área de tecnologia com foco em desenvolvimento de aplicações web modernas, aliando performance, usabilidade e boas práticas de programação. Possuo experiência com JavaScript, conhecimentos em Python e atualmente estou em processo de aprendizado em C#, além de familiaridade com frameworks associados a essas linguagens. Cursando Análise e Desenvolvimento de Sistemas (UNINOVE EAD), mantenho constante evolução técnica, aplicando o que aprendo em projetos práticos e alinhando minha atuação às demandas do mercado.
+Profissional de tecnologia com foco em DevOps, atuando na automação de ambientes, CI/CD, containerização e boas práticas de infraestrutura. Experiência com JavaScript e conhecimento em Python. Atualmente curso Análise e Desenvolvimento de Sistemas (UNINOVE EAD) e aplico continuamente novos conhecimentos em projetos práticos alinhados ao mercado.
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-malta/) 
