@@ -1,8 +1,14 @@
 # 💫 Ricardo Malta
 
-**`Desenvolvedor Web `**
+**`D E V O P S  E N G I N E E R   &  D E S E N V O L V E D O R  W E B `**
 
-Profissional de tecnologia com foco em DevOps, atuando na automação de ambientes, CI/CD, containerização e boas práticas de infraestrutura. Experiência com JavaScript e conhecimento em Python. Atualmente curso Análise e Desenvolvimento de Sistemas (UNINOVE EAD) e aplico continuamente novos conhecimentos em projetos práticos alinhados ao mercado.
+Profissional de tecnologia com foco em DevOps, com conhecimentos
+em Linux,Git, CI/CD,Docker e noções de Kubernetes. Experiência em
+desenvolvimento web, integrando código e infraestrutura para
+soluções seguras e eficientes. Busco oportunidades para aplicar
+minhas habilidades em automação, cloud e pipelines de CI/CD, com
+perfil organizado e voltado para aprendizado contínuo.
+
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-malta/) 
