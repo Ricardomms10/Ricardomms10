@@ -74,8 +74,13 @@ Profissional de tecnologia com foco em DevOps, atuando na automação de ambient
 </td></tr></table>  
 
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ricardomms10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIcardomms10/RIcardomms10/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIcardomms10/RIcardomms10/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RIcardomms10/RIcardomms10/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ricardomms10&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardomms10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
